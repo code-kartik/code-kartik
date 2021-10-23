@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @code-kartik
-- 👀 I’m interested in becoming a professional programmer
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: kartikarora2308@gmail.com
-
-<!---
-code-kartik/code-kartik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![HI! I AM](https://user-images.githubusercontent.com/90279768/138564998-b9716c1e-0ab7-46b8-a052-849bad009eeb.png)
