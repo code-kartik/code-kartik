@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-kartik&label=Profile%20views&color=0e75b6&style=flat" alt="code-kartik" /> </p>
 
-- 🔭 I’m currently working on [Delhi Tourism](https://github.com/code-kartik/DelhiTourism)
+- 🔭 I’m currently working on [Pomodoro Timer](https://github.com/code-kartik/Pomodoro_Timer)
 
 - 🌱 I’m currently learning **Native (Kotlin) and Hybrid (Flutter) Android Development**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kartikarora23082003@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10pUCbJ3LyVBSG-CroYtkDNTs4JPZ4qHh54SZXf7dSA4/edit?usp=sharing](https://docs.google.com/document/d/10pUCbJ3LyVBSG-CroYtkDNTs4JPZ4qHh54SZXf7dSA4/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/10pUCbJ3LyVBSG-CroYtkDNTs4JPZ4qHh54SZXf7dSA4/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
