@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [QuickJot](https://github.com/code-kartik/QuickJot)
 
-- 🌱 I’m currently learning **Native (Kotlin) and Hybrid (Flutter) Android Development**
+- 🌱 I’m currently learning **Native (Kotlin) Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/code-kartik](https://github.com/code-kartik)
 
