@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-kartik&label=Profile%20views&color=0e75b6&style=flat" alt="code-kartik" /> </p>
 
-- 🔭 I’m currently working on [Pomodoro Timer](https://github.com/code-kartik/Pomodoro_Timer)
+- 🔭 I’m currently working on [QuickJot](https://github.com/code-kartik/QuickJot)
 
 - 🌱 I’m currently learning **Native (Kotlin) and Hybrid (Flutter) Android Development**
 
