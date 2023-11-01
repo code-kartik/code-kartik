@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-kartik&show_icons=true&locale=en&layout=compact" alt="code-kartik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-kartik&show_icons=true&locale=en" alt="code-kartik" /></p>
+
