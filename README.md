@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-kartik&label=Profile%20views&color=0e75b6&style=flat" alt="code-kartik" /> </p>
 
-- 🔭 I’m currently working on [QuickJot](https://github.com/code-kartik/QuickJot)
-
-- 🌱 I’m currently learning **Native (Kotlin) Android Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/code-kartik](https://github.com/code-kartik)
 
 - 📫 How to reach me **kartikarora23082003@gmail.com**
